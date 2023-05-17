@@ -4,7 +4,7 @@
 <hr>
 <h3> 문서 </h3>
 <ul>
-  <li>><a href="https://wikidocs.net/book/4542"> 점프 투 플라스크 </a></li>
+  <li><a href="https://wikidocs.net/book/4542"> 점프 투 플라스크 </a></li>
  </ul>
 <h3> 개발자 </h3>
 최지원, 배서호, 송준호, 이주현, 오다영
